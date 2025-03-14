@@ -15,6 +15,13 @@
 - Vous pouvez faire des recherches sur Internet.
 - En revanche, **l'utilisation de l'IA est INTERDITE durant l'examen ⛔**
 
+**Modalités de rendu :**
+- Créer une archive `zip` avec comme nom `NOM_Prénom_Groupe.zip` contenant l'ensemble des fichiers demandés
+- Transmettre cette archive en pièce jointe par email :
+    - destinataire : `berenger.germain@shareandmove.fr` ou `renaud.david@shareandmove.fr`
+    - objet : `BUT RT Web dynamique : NOM Prénom Groupe`
+    - pièce jointe : archive `NOM_Prénom_Groupe.zip`
+
 ---
 
 ## **Contexte**
