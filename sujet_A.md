@@ -42,7 +42,7 @@ CREATE TABLE users (
 );
 ```
 
-👉 **Question :** Écrivez la requête SQL dans un fichier `query.sql` ci-dessus et expliquez brièvement à quoi sert chaque ligne (utilisez le caractère `#` pour commenter).
+👉 **Question :** Écrivez la requête SQL dans un fichier `query.sql` ci-dessus et expliquez brièvement à quoi sert chaque ligne (utilisez le caractère `/* ... */` pour commenter).
 
 ---
 
